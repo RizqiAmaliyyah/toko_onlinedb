@@ -1,0 +1,2 @@
+-- 7. Menghapus database 
+-- drop database tokoonline_yatokodb;

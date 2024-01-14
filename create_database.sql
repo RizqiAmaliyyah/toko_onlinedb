@@ -1,0 +1,1 @@
+create DATABASE tokoonline_yatokodb;
